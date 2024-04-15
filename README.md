@@ -9,4 +9,5 @@ Requirements:
 Flask
 
 To run the website, download the repository and in the terminal run: flask --app api run
-Then go into a browser and enter the link that is provided in the terminal
+
+Then go into a browser and enter the link that is provided in the terminal.
